@@ -1,4 +1,4 @@
-package lotto;
+package lottoHistory;
 
 public class Application {
 
